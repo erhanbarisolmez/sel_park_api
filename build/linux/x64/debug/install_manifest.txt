@@ -1,0 +1,14 @@
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/self_park
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/packages/flutter_map/lib/assets/flutter_map_logo.png
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/packages/dropdown_button2/assets/images/.gitkeep
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/packages/dropdown_button2/assets/fonts/Roboto-Regular.ttf
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/erhanbarisolmez/Desktop/git/self_park/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin

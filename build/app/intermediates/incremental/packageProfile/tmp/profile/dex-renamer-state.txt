@@ -1,0 +1,4 @@
+#Wed Jul 26 07:47:53 TRT 2023
+base.0=/home/erhanbarisolmez/Desktop/git/self_park/build/app/intermediates/dex/profile/mergeDexProfile/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
